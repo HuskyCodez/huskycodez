@@ -9,4 +9,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like doing random stuff when im bored 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HuskyCodez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HuskyCodez&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
