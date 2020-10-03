@@ -1,6 +1,7 @@
 ### Heyyy Im Joel aka Husky👋
 
 -I do python stuff, sometimes javascript
+
 -Discord is Spoopy Husky#8888
 
 ### Most used languages
