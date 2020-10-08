@@ -2,7 +2,7 @@
 
 -I do python stuff, sometimes javascript
 
--Discord is Spoopy Husky#8888
+-Discord is Spoopy Husky#6666
 
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuskyCodez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
