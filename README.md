@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuskyCodez&layout=compact)](https://google.com)
 
 ### WakaTime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuskyCodez)](https://github.com/anuraghazra/github-readme-stats)
+[![Joels's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuskyCodez)](https://google.com)
 
 ### My stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HuskyCodez&count_private=true&show_icons=true)
+![Joels's github stats](https://github-readme-stats.vercel.app/api?username=HuskyCodez&count_private=true&show_icons=true)
