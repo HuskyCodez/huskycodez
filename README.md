@@ -1,7 +1,7 @@
 ### Heyyy Im Joel aka Husky👋
 
--I do python stuff, sometimes javascript
--Discord is Spoopy Husky#6666
+- I do python stuff, sometimes javascript
+- Discord is Spoopy Husky#6666
 
 ### My languages and frameworks
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/516CE944-EB33-45EA-9D98-1FDC41F7F321.png" alt="Py" width="25px">
