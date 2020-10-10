@@ -20,11 +20,7 @@
 <br />
 <br />
 
-### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuskyCodez&layout=compact)](https://google.com)
-
-### WakaTime Stats
-[![Joels's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuskyCodez)](https://wakatime.com/@HuskyCodez)
-
 ### My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuskyCodez&layout=compact)](https://google.com)
+[![Joels's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuskyCodez)](https://wakatime.com/@HuskyCodez)
 ![Joels's github stats](https://github-readme-stats.vercel.app/api?username=HuskyCodez&count_private=true&show_icons=true)
