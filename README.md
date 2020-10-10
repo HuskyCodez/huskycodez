@@ -14,6 +14,9 @@
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/B4D61433-C506-4E2F-A3B3-23E6BA6BA2E1.png" alt="VS" width="25px">
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/3085B58D-2E3B-4606-898D-E9230A285804.png" alt="Pycharm" width="25px">
 
+<br />
+<br />
+
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuskyCodez&layout=compact)](https://google.com)
 
