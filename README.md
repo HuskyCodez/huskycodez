@@ -9,6 +9,9 @@
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/F0FD5EF2-1E0F-4DAE-8F34-829823BB8073.png" alt="Lua" width="25px">
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/77B426BC-DAA9-4D61-A56B-27CA26FFB4BB.png" alt="Discord.js" width="25px">
 
+<br />
+<br />
+
 ### My tools
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/C9F1DB4A-0174-4DDE-AE9F-72CD940530E9.png" alt="VS code" width="25px">
 <img align="left" src="https://github.com/HuskyCodez/huskycodez/blob/master/images/B4D61433-C506-4E2F-A3B3-23E6BA6BA2E1.png" alt="VS" width="25px">
