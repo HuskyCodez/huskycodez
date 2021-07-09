@@ -25,3 +25,5 @@
 
 [![Joels's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuskyCodez)](https://wakatime.com/@HuskyCodez)
 ![Joels's github stats](https://github-readme-stats.vercel.app/api?username=HuskyCodez&count_private=true&show_icons=true)
+
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/717468528822845440.png"/> </p>
